@@ -1,0 +1,27 @@
+{
+  "name": "twitch-command-display-hub",
+  "version": "1.0.0",
+  "description": "A web application that integrates with Twitch chat, allowing content creators to trigger visual and audio elements on their streams using chat commands. This hub supports images, videos, and text commands, providing an interactive and dynamic overlay for Twitch broadcasts. Built with JavaScript, Twitch JS, and HTML/CSS.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugarbobo-ch/Twitch-Command-Display-Hub.git"
+  },
+  "author": "sugarbobo-ch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sugarbobo-ch/Twitch-Command-Display-Hub/issues"
+  },
+  "homepage": "https://github.com/sugarbobo-ch/Twitch-Command-Display-Hub#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-html": "^8.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}

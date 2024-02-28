@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitch Command Display Hub</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="app"></div>
+    <audio class="sound" preload="auto">
+      <source src="./assets/bonk.mp3" type="audio/mpeg"> Your browser does not support the audio element.
+    </audio>
+    <div class="content-container">
+      <div class="content"></div>
+    </div>
+    <script type="text/javascript" src="./commands.js" async></script>
+    <script type="text/javascript" src="./config.js" async></script>
+    <script src="https://unpkg.com/twitch-js@2.0.0-beta.45/dist/twitch.js"></script>
+    <script type="text/javascript" src="./script.js" async></script>
+  </body>
+</html>
