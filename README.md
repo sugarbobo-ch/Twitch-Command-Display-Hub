@@ -108,10 +108,15 @@ var customCommands = {
 
 ## Configuration Details
 -`debug`: Set to true for testing without chat interaction; set to false for actual use.
+
 -`prefix`: Define the prefix for your chat commands.
+
 -`username`: Your Twitch username.
+
 -`token`: Your Twitch access token; keep it secure, obtain it from [Twitch Token Generator](https://twitchtokengenerator.com/).
+
 -`channel`: Your Twitch channel ID.
+
 Note: Keep your Twitch access token confidential. Only grant read access to the chat in the web interface for security.
 
 ## Contributing
