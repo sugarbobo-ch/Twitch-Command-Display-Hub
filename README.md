@@ -2,7 +2,7 @@
 
 The Twitch Command Display Hub is a web application that integrates with Twitch chat, allowing content creators to trigger visual and audio elements on their streams using chat commands. This hub supports images, videos, and text commands, providing an interactive and dynamic overlay for Twitch broadcasts.
 
-中文版本請點這：[中文版本說明](https://github.com/sugarbobo-ch/Twitch-Command-Display-Hub/zh/README.md)
+中文版本請點這：[中文版本說明](https://github.com/sugarbobo-ch/Twitch-Command-Display-Hub/blob/main/zh/README.md)
 
 ## Features
 
