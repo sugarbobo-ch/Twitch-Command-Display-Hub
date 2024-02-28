@@ -121,10 +121,15 @@ var customCommands = {
 
 ## 配置詳情
 -`debug`: 設為 true 可在沒有聊天互動的情況下進行測試；設為 `false` 進行實際使用。
+
 -`prefix`: 定義您的聊天指令前綴。
+
 -`username`: 您的 Twitch 使用者名稱。
+
 -`token`: 您的 Twitch access token；請保持安全，從 [Twitch Token Generator](https://twitchtokengenerator.com/) 獲取。
+
 -`channel`: 您的 Twitch 頻道 ID。
+
 注意： 請保密您的 Twitch access token，不要公開分享，在網頁下面可以只給予讀取聊天室的權限，較為安全。
 
 ## 貢獻
