@@ -23,7 +23,7 @@ var customCommands = {
 }
 
 /*
-Example:
+Examples:
 "commandName": {
   type: "image",
   content: "YOUR_FILE_NAME.gif YOUR_FILE_NAME.png YOUR_FILE_NAME.jpg"
